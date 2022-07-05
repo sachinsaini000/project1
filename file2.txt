@@ -1,2 +1,5 @@
 hi from file
 hello from cloud techner
+
+def feature1():
+	return 10 + 2
