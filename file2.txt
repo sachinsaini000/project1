@@ -3,3 +3,7 @@ hello from cloud techner
 
 def feature1():
 	return 10 + 2
+
+
+def feature2():
+	return 100 + 200
