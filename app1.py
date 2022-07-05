@@ -1,5 +1,4 @@
-hi line 1
-hi line 2
+#!/bin/python3
 
 def hello():
     print("Hi from hello")
