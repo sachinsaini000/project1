@@ -5,5 +5,5 @@ def feature1():
 	return 10 + 2
 
 
-def feature2():
-	return 100 + 200
+def feature3():
+	return 20 + 30
